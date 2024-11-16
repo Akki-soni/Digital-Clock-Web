@@ -46,11 +46,11 @@
 
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Akki-soni/Coming-Soon-Page-Web.git>
+   git clone <https://github.com/Akki-soni/Digital-Clock-Web.git>
    ```
 2. Open the project folder:
    ```bash
-   cd Coming-Soon-Page-Web
+   cd Digital-Clock-Web
    ```
 3. Open index.html in any web browser
 
