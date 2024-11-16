@@ -23,11 +23,10 @@
 
 ## 🚀 Features
 
-- **Responsive design for different screen sizes.**
-- **Countdown timer to the launch date.**
-- **Basic animations and styles for an engaging user experience.**
-- **Modern and clean layout using HTML and CSS.**
-- **JavaScript for dynamic countdown functionality.**
+- **Displays the current time (hours, minutes, and seconds) in real-time.**
+- **Updates every second.**
+- **User-friendly and responsive design.**
+- **Easy to customize and integrate into other projects.**
 
 ## 🛠️ Technologies Used
 
