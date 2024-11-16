@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A **Coming Soon** page created using HTML, CSS, and JavaScript. This page can be used to display an upcoming event, product launch, or website with a countdown timer and a visually appealing design.
+  A simple Digital Clock created using HTML, CSS, and JavaScript that displays the current time dynamically.
 </p>
 
 ## 🚀 Features
