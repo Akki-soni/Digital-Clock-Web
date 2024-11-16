@@ -36,7 +36,7 @@
 
 ## 🌟 Screenshots
 
-![Coming-Soon-Page_Screenshot](/C-S-P_Screenshot.png)
+![Digital-Clock_Screenshot](/_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -53,17 +53,6 @@
    cd Coming-Soon-Page-Web
    ```
 3. Open index.html in any web browser
-
-## 🚀 How to Use
-
-1. Modify the `countdown` JavaScript function to set the correct date and time for your event or launch.
-
-## 🚀 Countdown Function Example
-
-```javascript
-// Example countdown date setup in JavaScript
-const countdownDate = new Date("Dec 31, 2024 23:59:59").getTime();
-```
 
 ## 🤝 Contributing
 
