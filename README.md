@@ -36,7 +36,7 @@
 
 ## 🌟 Screenshots
 
-![Digital-Clock_Screenshot](/_Screenshot.png)
+![Digital-Clock_Screenshot](/D-C_Screenshot.png)
 
 ## 🔗 Live Demo
 
