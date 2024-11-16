@@ -30,9 +30,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: Structure of the page.
-- **CSS3**: Styling and animations.
-- **JavaScript**: Countdown timer and interactive elements.
+- **HTML5**: Used for creating the structure of the clock.
+- **CSS3**: Used for styling the clock display and making it visually appealing.
+- **JavaScript**: Used to dynamically update the time every second.
 
 ## 🌟 Screenshots
 
